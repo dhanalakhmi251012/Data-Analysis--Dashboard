@@ -41,4 +41,27 @@ By combining multiple datasets and presenting them through interactive visual re
 ## 1.4 Line Chart
 *This option shows Month wise civilians affected 
 
+## Military Loss
+![Screenshot 2024-12-18 225252](https://github.com/user-attachments/assets/5831f45f-8a1a-48e4-b260-3fae4eac6b9b)
+
+## 2.1 Card 
+*During the Russia-Ukraine war, there are one Million Militaries were killed.
+
+*2 Million Militaries  got injured during Russia-Ukraine war.
+
+## 2.2 Line Chart 
+*This option will demonstrate military death by month wise for both countries. 
+
+## 2.3 Matrix 
+*This option is to demonstrate the type of weapon used by both countries' armies. The data pulled based on the evidence sources. 
+	
+## 2.4 Donut Chart
+*This donut chart is to visualize the types of weapons used by two countries and in which operation and weapon more militaries killed
+The weapon types can be shown under the donut chart.  
+
+## 2.5 Stacked Column Chart
+*This operation category is to demonstrate how many type of operation are performed by two countries. The operation type will be available in the section. Each operation shows how many militaries  were affected and killed.
+
+
+
 
