@@ -15,19 +15,30 @@ By combining multiple datasets and presenting them through interactive visual re
 
 ## 1.1 Card 
 *The total population of Russia and Ukraine was 1 Billion before the start of the War. Each country's population has been visualized  and demonstrated under country slicer. It can be viewed by selecting the slicer. 
+
 *Each country's population has been reduced fiercely after the war between two countries. The Declined count of population was 129 Million. 
--Due to the Russia-Ukraine War people decided  to migrate to the safest country and place. Approximately 6M people were migrated respectively. 
--During the Russia-Ukraine war, there are 1 Million civilians were killed. This includes children, men and womens. 
--628K men were killed during the war  of Russia-Ukraine 
--319K women were killed during the war of Russia-Ukraine
--316K Children were killed during the war of Russia- Ukraine 
--There are 30 days to resolve the War issues and conflict between the two countries 
--There are 1 days to resolve the War issues and conflict between the two countries 
+
+*Due to the Russia-Ukraine War people decided  to migrate to the safest country and place. Approximately 6M people were migrated respectively. 
+
+*During the Russia-Ukraine war, there are 1 Million civilians were killed. This includes children, men and womens. 
+
+*628K men were killed during the war  of Russia-Ukraine 
+
+*319K women were killed during the war of Russia-Ukraine
+
+*316K Children were killed during the war of Russia- Ukraine 
+
+*There are 30 days to resolve the War issues and conflict between the two countries 
+
+*There are 1 days to resolve the War issues and conflict between the two countries 
+
 ## 1.2 Donut Chart for operation 
--This donut chart is to visualize the types of operation performed by two countries and in which operation more people count has been reduced. 
+*This donut chart is to visualize the types of operation performed by two countries and in which operation more people count has been reduced. 
+
 ## 1.3 Stacked Column Chart for Operation Category
--This operation category is to demonstrate how many type of operation are performed by two countries. The operation type will be available in the section. Each operation shows how many people were affected and killed.
+*This operation category is to demonstrate how many type of operation are performed by two countries. The operation type will be available in the section. Each operation shows how many people were affected and killed.
+
 ## 1.4 Line Chart
--This option shows Month wise civilians affected 
+*This option shows Month wise civilians affected 
 
 
