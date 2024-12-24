@@ -62,6 +62,38 @@ The weapon types can be shown under the donut chart.
 ## 2.5 Stacked Column Chart
 *This operation category is to demonstrate how many type of operation are performed by two countries. The operation type will be available in the section. Each operation shows how many militaries  were affected and killed.
 
+# Economic Impact
+
+![Screenshot 2024-12-18 230038](https://github.com/user-attachments/assets/0e6db7d2-c72d-4d3b-8a7a-bad1db5783b2)
+
+## 3.1 Donut Chart
+*This option will demonstrate how many schools, Hospitals,Bridge and Hospitals were damaged and impacted in the war. 
+
+## 3.2 Tree Map
+*This option will demonstrate which countries are supporting Russia and Ukraine.
+
+## 3.3 Stacked Bar Chart 
+*This will demonstrate the impact of countries Trading/stock market, unemployment status,currency exchange, tourism, inflation, energy prices, crude oil, Agriculture and Defence expenditure.   
+
+## 3.4 Line Chart 
+*This line chart will demonstrate the impact of countries economics by month wise. 
+
+## Rank Wise
+
+![Screenshot 2024-12-18 231414](https://github.com/user-attachments/assets/3602aca5-36e1-4c89-a305-166280974c13)
+
+*This dashboard presenting rank-wise insights on the impact of the war. The dashboard highlights the number of civilian and military casualties, as well as the economic impact, with detailed records categorized by city and country."
+
+# Conclusion 
+
+This Russia-Ukraine War project helps people to understand the Civilians issue and impact in the countries after war.I hope this demonstration data will help for the people who want to know more about Russia-Ukraine war.
+I am happy to do more power Bi project in the future if this really helps people.  War is not the solution for all the problems. The country's leader has to think of alternatives to save their country. 
+
+
+
+
+
+
 
 
 
