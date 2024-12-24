@@ -11,5 +11,5 @@ By leveraging Power BI, the project aims to present critical insights into key a
 By combining multiple datasets and presenting them through interactive visual representation , it supports transparency, awareness, and decision-making for world leaders.
 
 ## Civilians Impact
-https://github.com/dhanalakhmi251012/Data-Analysis--Dashboard/blob/main/Screenshot%202024-12-18%20224638.png
+![Screenshot 2024-12-18 224638](https://github.com/user-attachments/assets/3d0f7586-72f8-4c04-bb9c-c9b2601ab404)
 
