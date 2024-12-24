@@ -9,3 +9,7 @@ analysis of the ongoing Russia-Ukraine war through interactive and visually enga
 By leveraging Power BI, the project aims to present critical insights into key aspects of the conflict, such as geopolitical impacts, humanitarian consequences, and economic effects.
 
 By combining multiple datasets and presenting them through interactive visual representation , it supports transparency, awareness, and decision-making for world leaders.
+
+## Civilians Impact
+https://github.com/dhanalakhmi251012/Data-Analysis--Dashboard/blob/main/Screenshot%202024-12-18%20224638.png
+
