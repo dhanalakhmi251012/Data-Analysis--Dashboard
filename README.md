@@ -14,8 +14,8 @@ By combining multiple datasets and presenting them through interactive visual re
 ![Screenshot 2024-12-18 224638](https://github.com/user-attachments/assets/3d0f7586-72f8-4c04-bb9c-c9b2601ab404)
 
 ## 1.1 Card 
--The total population of Russia and Ukraine was 1 Billion before the start of the War. Each country's population has been visualized  and demonstrated under country slicer. It can be viewed by selecting the slicer. 
--Each country's population has been reduced fiercely after the war between two countries. The Declined count of population was 129 Million. 
+*The total population of Russia and Ukraine was 1 Billion before the start of the War. Each country's population has been visualized  and demonstrated under country slicer. It can be viewed by selecting the slicer. 
+*Each country's population has been reduced fiercely after the war between two countries. The Declined count of population was 129 Million. 
 -Due to the Russia-Ukraine War people decided  to migrate to the safest country and place. Approximately 6M people were migrated respectively. 
 -During the Russia-Ukraine war, there are 1 Million civilians were killed. This includes children, men and womens. 
 -628K men were killed during the war  of Russia-Ukraine 
