@@ -2,15 +2,15 @@
 "I developed a Power BI project titled 'Russia-Ukraine War Analysis Dashboard' that analyzes the war's impact on civilians, military casualties, and weapon losses. It highlights economic effects on markets, trade, and inflation, as well as infrastructure damage . Data is categorized by country, year, and city for an interactive view".
 ## Project Overview
 The project “Russia-Ukraine War Analysis Data Dashboard with Power BI” is provides visual representation by Power Bi for people and world leaders not to make such a decision.
-
 The primary goal of this project is to provide an in-depth 
 analysis of the ongoing Russia-Ukraine war through interactive and visually engaging power Bi dashboards.
-
 By leveraging Power BI, the project aims to present critical insights into key aspects of the conflict, such as geopolitical impacts, humanitarian consequences, and economic effects.
-
 By combining multiple datasets and presenting them through interactive visual representation , it supports transparency, awareness, and decision-making for world leaders.
 
 ## Civilians Impact
+
+- "This dashboard highlights the impact of the war on civilians, showcasing how they are suffering during the conflict. The analysis provides detailed records categorized by country, year, and city, offering a clear and interactive view of the data."
+ 
 ![Screenshot 2024-12-18 224638](https://github.com/user-attachments/assets/3d0f7586-72f8-4c04-bb9c-c9b2601ab404)
 
 ## 1.1 Card 
@@ -42,6 +42,9 @@ By combining multiple datasets and presenting them through interactive visual re
 - This option shows Month wise civilians affected 
 
 ## Military Loss
+
+- "This dashboard provides an in-depth analysis of military losses during the war, including the number of soldiers lost, the extent of military weapon losses, and the impact of various operation categories. The data is presented with detailed records, categorized by country, year, and city, offering a comprehensive view of the conflict's impact."
+- 
 ![Screenshot 2024-12-18 225252](https://github.com/user-attachments/assets/5831f45f-8a1a-48e4-b260-3fae4eac6b9b)
 
 ## 2.1 Card 
@@ -64,6 +67,8 @@ The weapon types can be shown under the donut chart.
 
 # Economic Impact
 
+- "This Dashboard showcasing the economic impacts on stock markets, trade, agriculture, crude oil, currency exchange, and inflation. It also highlights infrastructure damage, including schools, roads, hospitals, and bridges, and details international aid sources, showing which countries supported Russia or Ukraine. The dashboard provides a clear view of these impacts categorized by country, year, and city."
+
 ![Screenshot 2024-12-18 230038](https://github.com/user-attachments/assets/0e6db7d2-c72d-4d3b-8a7a-bad1db5783b2)
 
 ## 3.1 Donut Chart
@@ -79,6 +84,8 @@ The weapon types can be shown under the donut chart.
 - This line chart will demonstrate the impact of countries economics by month wise. 
 
 ## Rank Wise
+
+- "This Dashboard presenting rank-wise insights on the impact of the war. The dashboard highlights the number of civilian and military casualties, as well as the economic impact, with detailed records categorized by city and country."
 
 ![Screenshot 2024-12-18 231414](https://github.com/user-attachments/assets/3602aca5-36e1-4c89-a305-166280974c13)
 
