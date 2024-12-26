@@ -89,7 +89,6 @@ The weapon types can be shown under the donut chart.
 
 ![Screenshot 2024-12-18 231414](https://github.com/user-attachments/assets/3602aca5-36e1-4c89-a305-166280974c13)
 
-- This dashboard presenting rank-wise insights on the impact of the war. The dashboard highlights the number of civilian and military casualties, as well as the economic impact, with detailed records categorized by city and country."
 
 # Conclusion 
 
