@@ -44,7 +44,7 @@ By combining multiple datasets and presenting them through interactive visual re
 ## Military Loss
 
 - "This dashboard provides an in-depth analysis of military losses during the war, including the number of soldiers lost, the extent of military weapon losses, and the impact of various operation categories. The data is presented with detailed records, categorized by country, year, and city, offering a comprehensive view of the conflict's impact."
-- 
+   
 ![Screenshot 2024-12-18 225252](https://github.com/user-attachments/assets/5831f45f-8a1a-48e4-b260-3fae4eac6b9b)
 
 ## 2.1 Card 
